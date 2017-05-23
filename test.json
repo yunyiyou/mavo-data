@@ -1,0 +1,12 @@
+{
+	"people": [
+		{
+			"name": "wangzc",
+			"birthday": "1992-06-03"
+		},
+		{
+			"name": "zhufeng",
+			"birthday": "2017-05-23"
+		}
+	]
+}
